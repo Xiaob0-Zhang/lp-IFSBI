@@ -1,5 +1,3 @@
-# NFM-LCSBI
-
 **Official implementation for the paper:**
 > **A Low-Complexity Sparse Bayesian Acoustic Source Localization Method Based on $\ell_p$-Norm Constraint**
 
