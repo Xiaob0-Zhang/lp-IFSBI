@@ -1,7 +1,20 @@
-## 🔓 Access Code
+# NFM-LCSBI
 
-Thank you for your interest in our work. The paper has been officially accepted.
+**Official implementation for the paper:**
+> **A Low-Complexity Sparse Bayesian Acoustic Source Localization Method Based on $\ell_p$-Norm Constraint**
+
+Accepted for publication in **IEEE Transactions on Instrumentation and Measurement (2025)**.
+[DOI: 10.1109/TIM.2025.3648095](https://doi.org/10.1109/TIM.2025.3648095)
+
+## 🔓 Code Access
+
+The source code is currently password-protected.
 
 **Password:** `Abc123`
 
-If you have any questions, please feel free to contact: **zxb_cqu@163.com**
+## 📧 Contact
+
+If you have any questions or require assistance, please contact:
+**zxb_cqu@163.com**
+
+
