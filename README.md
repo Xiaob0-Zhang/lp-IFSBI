@@ -4,6 +4,7 @@
 > **A Low-Complexity Sparse Bayesian Acoustic Source Localization Method Based on $\ell_p$-Norm Constraint**
 
 Accepted for publication in **IEEE Transactions on Instrumentation and Measurement**.
+
 [DOI: 10.1109/TIM.2025.3648095]
 
 ## 🔓 Code Access
